@@ -1,7 +1,7 @@
 # Italian Recipe Translator
 
 ## Description:
-While traveling in Italy, I picked up a couple of Italian cookbooks in hopes of becoming a better cook.  My only problem?  The cookbooks were in Italian.  After spending quite a bit of time typing and speaking Italian into a translator, I decided to write my own program that could work much faster.  The program has two main functionalities: image-to-text and text-to-text translation.  The image to text portion converts text from an image into a text file while the text-to-text translation portion translates Italian text into English, outputting a translated text file.  Future versions will provide better error handling and a better, more intuitive user experience.  
+While traveling in Italy, I picked up a couple of Italian cookbooks in hopes of becoming a better cook.  My only problem?  The cookbooks were in Italian.  After spending quite a bit of time typing and speaking Italian into a translator, I decided to write my own program that could work much faster.  The program has two main functionalities: image-to-text conversion and text-to-text translation.  The image to text portion converts text from an image into a text file while the text-to-text translation portion translates Italian text into English, outputting a translated text file.  Future versions will provide better error handling and a better, more intuitive user experience.  
 
 ## Installation:
 The program relies on the PyTesseract, OpenCV and googletrans APIs.  You must have these libraries installed in order for the project to run.  
